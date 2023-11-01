@@ -1,4 +1,6 @@
 import tkinter as tk
+import urllib.request
+import io
 from tkinter import ttk
 from tkinter import messagebox
 from PIL import Image, ImageTk
@@ -24,15 +26,16 @@ def resize_image(image, new_width, new_height):
 
 root = tk.Tk()
 root.title("Snow Alert App")
-root.geometry("350x450")
+root.geometry("350x430")
 
-# icon
-icon_path = "C:/Users/Ching Wei Lai/Desktop/pythonProject/winter.png"
-original_image = Image.open(icon_path)
+#background image
+image_url = "https://i.postimg.cc/GmkDKRK2/winter.png"
+image_data = urllib.request.urlopen(image_url).read()
+original_image = Image.open(io.BytesIO(image_data))
 
 # 縮放圖片以填滿整個窗口背景
 window_width = 350
-window_height = 450
+window_height = 430
 resized_image = resize_image(original_image, window_width, window_height)
 
 # 將Image對象轉換為PhotoImage對象
@@ -67,14 +70,14 @@ label_time.configure(background='#bee0ec')
 entry_time.configure(background='#e9f5f9')
 button_set_alert.configure(background='#e9f5f9')
 
-label_title.pack(pady=10)
+label_title.pack(pady=15)
 label_city.pack(pady=10)
 city_combobox.pack(pady=10)
 label_email.pack(pady=10)
 entry_email.pack(pady=10)
 label_time.pack(pady=10)
 entry_time.pack(pady=10)
-button_set_alert.pack(pady=20)
+button_set_alert.pack(pady=15)
 
 
 root.mainloop()
