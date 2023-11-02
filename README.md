@@ -1,7 +1,8 @@
 ## Hello, I am Wei. ❄️
 
 
-### Project Name: Snow Alert
+### Project Name: 
+Snow Alert
 
 ### Date:
 Nov 1, 2023
@@ -12,11 +13,11 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 ### 細節：
 
-### 使用技术：
-- Python
-- Tkinter（用于 GUI）
-- BeautifulSoup（用于网页解析）
-- SMTP（用于发送电子邮件）
+### Technologies Used:
+ •Python: Primary programming language.
+ •Tkinter: Python library for building graphical user interfaces.
+ •BeautifulSoup: Python library for parsing HTML web pages.
+ •SMTP: Standard communication protocol for sending emails.
 
 ### 项目结构：
 - `gui.py`：GUI 界面的主要代码。
