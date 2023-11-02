@@ -92,6 +92,7 @@ original_image = Image.open(io.BytesIO(image_data))
 
 ### Update Log:
 - Version 1.0.0 (Nov 1, 2023)
+  
 Initial release, featuring the basic GUI and snow alert functionality.
 
 
