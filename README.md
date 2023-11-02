@@ -30,13 +30,13 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 ### 使用截圖：
 
 
-### 更新日志：
+### Update Log:
+- Version 1.0.0 (Nov 1, 2023)
+Initial release, featuring the basic GUI and snow alert functionality.
 
-### Version 1.0.0 (Nov 1, 2023)
-- 初始版本，包括基本的 GUI 和下雪提醒功能。
-
-### 感谢：
-感谢你阅读 README，希望你喜欢这个项目！如果有任何问题或建议，请随时联系。
+***
+❄️ I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. ❄️
+✉️ HTY140226@gmail.com
 
 
 
