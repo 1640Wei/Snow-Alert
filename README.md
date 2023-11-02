@@ -32,7 +32,8 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 
 ### Notice:
-+Authentication
+- Authentication
+
 Since we will be using our own email address to send alerts to users, it is crucial to consider how to securely obtain our own email account and password.
 
 Original Version:
