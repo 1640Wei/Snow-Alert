@@ -29,6 +29,7 @@ def on_set_alert():
 def resize_image(image, new_width, new_height):
    return image.resize((new_width, new_height), Image.LANCZOS)
 
+# Initialize the main window of the GUI application.
 root = tk.Tk()
 root.title("Snow Alert App")
 root.geometry("350x430")
