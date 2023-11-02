@@ -1,8 +1,7 @@
 ## Hello, I am Wei. 
 
 
-#### Project Name: 
-Snow Alert
+#### Project Name: Snow Alert
 
 ### Date:
 Nov 1, 2023
