@@ -33,7 +33,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 ### Notice:
 
-+  **Authentication**
+#### - Authentication
 
 Since we will be using our own email address to send alerts to users, it is crucial to consider how to securely obtain our own email account and password.
 
@@ -59,11 +59,11 @@ $env:YOUR_EMAIL = 'example@gmail.com'
 $env:YOUR_PASSWORD = 'your password'
 ```
 
-- **Background Image**
+#### - Background Image
 
 There are two ways to upload the background image:
 
-#### Method 1: Using a Local Path
+**Method 1: Using a Local Path**
 
 ```python
 picture_path = 'C:/…/…/example.png'
