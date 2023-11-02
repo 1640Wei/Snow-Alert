@@ -22,17 +22,19 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 - `gui.py`：Main code for the GUI interface.
 - `snow_alert.py`：Code handling the logic for snow alerts.
 
-### 安装：
-### 示例：
-- 在 GUI 界面选择城市、输入邮箱和设置提醒时间。
-- 点击 "Set Alert" 按钮，将在设置的时间检查天气，如果下雪则发送提醒邮件。
 
-### 使用截圖：
+### Example:
+- Choose a city, enter your email, and set the alert time in the GUI interface.
+- Click the "Set Alert" button to check the weather at the specified time. If it's snowing, a reminder email will be sent.
+
+
+### Detail:
 
 
 ### Update Log:
 - Version 1.0.0 (Nov 1, 2023)
 Initial release, featuring the basic GUI and snow alert functionality.
+
 
 ***
 
