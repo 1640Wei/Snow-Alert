@@ -2,6 +2,7 @@ import os
 import smtplib
 import requests
 from bs4 import BeautifulSoup
+
 def snow_alert(city, to_email, time):
    # Create a URL and request instance.
    url = f"https: //www.google.com/search?q=weather{city}"
