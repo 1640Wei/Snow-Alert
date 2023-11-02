@@ -96,6 +96,7 @@ Initial release, featuring the basic GUI and snow alert functionality.
 
 
 ***
+### Thanks:
 
 ❄️ I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. ❄️
 
