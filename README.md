@@ -59,6 +59,32 @@ $env:YOUR_EMAIL = 'example@gmail.com'
 $env:YOUR_PASSWORD = 'your password'
 ```
 
+- **Background Image**
+
+There are two ways to upload the background image:
+
+#### Method 1: Using a Local Path
+
+```python
+picture_path = 'C:/…/…/example.png'
+original_image = Image.open(picture_path)
+```
+
+Method 2: Using a URL
+First, import the relevant modules:
+
+```python
+import urllib.request
+import io
+```
+
+Next, add the path:
+```python
+image_url = 'https://example.com/your_image.png'
+image_data = urllib.request.urlopen(image_url).read()
+original_image = Image.open(io.BytesIO(image_data))
+```
+
 ### Update Log:
 - Version 1.0.0 (Nov 1, 2023)
 Initial release, featuring the basic GUI and snow alert functionality.
