@@ -18,9 +18,9 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 - SMTP: Standard communication protocol for sending emails.
   
 
-### 项目结构：
-- `gui.py`：GUI 界面的主要代码。
-- `snow_alert.py`：处理下雪提醒逻辑的代码。
+### Project Structure:：
+- `gui.py`：Main code for the GUI interface.
+- `snow_alert.py`：Code handling the logic for snow alerts.
 
 ### 安装：
 ### 示例：
