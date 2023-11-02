@@ -32,6 +32,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 
 ### Notice:
+
 - Authentication
 
 Since we will be using our own email address to send alerts to users, it is crucial to consider how to securely obtain our own email account and password.
@@ -42,6 +43,7 @@ smtp_object.login("YOUR EMAIL", "YOUR PASSWORD")
 ```
 "YOUR EMAIL" and "YOUR PASSWORD" are your email address and password for your email account. However, storing the password directly in the code is insecure.
 Set the YOUR_EMAIL and YOUR_PASSWORD environment variables. You can then retrieve these values in your Python program using the os.environ.get method.
+
 Modified Version:"
 
 ```python
