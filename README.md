@@ -44,7 +44,7 @@ smtp_object.login("YOUR EMAIL", "YOUR PASSWORD")
 "YOUR EMAIL" and "YOUR PASSWORD" are your email address and password for your email account. However, storing the password directly in the code is insecure.
 Set the YOUR_EMAIL and YOUR_PASSWORD environment variables. You can then retrieve these values in your Python program using the os.environ.get method.
 
-**Modified Version**:"
+**Modified Version**:
 
 ```python
 email = os.environ.get('YOUR_EMAIL')
