@@ -29,7 +29,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 
 ### Detail:
-
+![image](1.png)
 
 ### Update Log:
 - Version 1.0.0 (Nov 1, 2023)
