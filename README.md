@@ -72,9 +72,9 @@ original_image = Image.open(picture_path)
 
 **Method 2: Using a URL:**
 
-The urllib.request module is one of Python's standard libraries, providing tools for working with URLs. We utilize the urlopen method to open a specified URL and retrieve its content.
+The **urllib.request** module is one of Python's standard libraries, providing tools for working with URLs. We utilize the urlopen method to open a specified URL and retrieve its content.
 
-The io module offers fundamental I/O operation support, with the BytesIO class allowing us to handle byte data much like working with files. This class's functionality involves creating a buffer in memory, facilitating subsequent use of the Image.open method to open and process image data.
+The **io** module offers fundamental I/O operation support, with the BytesIO class allowing us to handle byte data much like working with files. This class's functionality involves creating a buffer in memory, facilitating subsequent use of the Image.open method to open and process image data.
 
 First, import the relevant modules:
 
