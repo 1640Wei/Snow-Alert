@@ -11,7 +11,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 ### Technologies Used:
 - Python: Primary programming language.
   
-- Tkinter: Python library for building GUI(graphical user interfaces).
+- Tkinter: Python library for building GUI (graphical user interfaces).
   
 - BeautifulSoup: Python library for parsing HTML web pages.
   
