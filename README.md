@@ -1,13 +1,11 @@
-### Hello, I am Wei.
+### Hello, I am Wei. 
 
-### 項目名稱：Snow Alert
+### Project Name: Snow Alert
 
-### 日期：Nov 1, 2023
+### Date:Nov 1, 2023
 
-### 描述：
-
-### 项目背景：
-这个项目是为了创建一个简单的天气提醒应用，特别是在下雪时发送电子邮件提醒。这是我在学习 Python 和 GUI 编程时的一个小项目。
+### Description:
+This project offers weather alerts for major Canadian cities, specifically sending email notifications during snowfall. Users can customize their city, email address for alerts, and preferred alert time.
 
 ### 細節：
 
