@@ -3,11 +3,12 @@
 
 #### Project Name: Snow Alert
 
-### Date:
+#### Date:
 Nov 1, 2023
 
-### Description:
+#### Description:
 This project offers weather alerts for major Canadian cities, specifically sending email notifications during snowfall. Users can customize their city, email address for alerts, and preferred alert time.
+
 
 ### 細節：
 
