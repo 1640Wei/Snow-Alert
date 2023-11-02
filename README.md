@@ -9,13 +9,13 @@ Hello, I am Wei. ❄️
 This project offers weather alerts for major Canadian cities, specifically sending email notifications during snowfall. Users can customize their city, email address for alerts, and preferred alert time.
 
 ### Technologies Used:
-- Python: Primary programming language.
+- **Python**: Primary programming language.
   
-- Tkinter: Python library for building GUI (graphical user interfaces).
+- **Tkinter**: Python library for building GUI (graphical user interfaces).
   
-- BeautifulSoup: Python library for parsing HTML web pages.
+- **BeautifulSoup**: Python library for parsing HTML web pages.
   
-- SMTP: Standard communication protocol for sending emails.
+- **SMTP**: Standard communication protocol for sending emails.
   
 
 ### Project Structure:：
