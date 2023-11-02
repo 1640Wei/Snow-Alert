@@ -29,7 +29,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 
 ### Detail:
-![image](1.png)
+![image](https://github.com/1640Wei/Snow-Alert/blob/5f62c26f02bfaffd97d1488f92115e24d48cec1a/1.png)
 
 ### Update Log:
 - Version 1.0.0 (Nov 1, 2023)
