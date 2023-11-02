@@ -28,8 +28,10 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 - Click the "Set Alert" button to check the weather at the specified time. If it's snowing, a reminder email will be sent.
   
 <img width="250" height="350" src="https://github.com/1640Wei/Snow-Alert/blob/1415c526294040eb3cd81487539ca6d893be53b7/picture/1.png">
+<img width="250" height="350" src="https://github.com/1640Wei/Snow-Alert/blob/5f0173f8279ed642a34796d8180a31b6061ab015/picture/2.png">
 
-### Detail:
+
+### Notice:
 
 
 ### Update Log:
