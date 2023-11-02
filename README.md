@@ -35,6 +35,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 Initial release, featuring the basic GUI and snow alert functionality.
 
 ***
+
 ❄️ I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. ❄️
 
 ✉️ HTY140226@gmail.com
