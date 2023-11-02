@@ -71,6 +71,7 @@ original_image = Image.open(picture_path)
 ```
 
 **Method 2: Using a URL**
+
 First, import the relevant modules:
 
 ```python
