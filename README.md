@@ -15,9 +15,13 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 
 ### Technologies Used:
 - Python: Primary programming language.
+  
 - Tkinter: Python library for building graphical user interfaces.
+  
 - BeautifulSoup: Python library for parsing HTML web pages.
+  
 - SMTP: Standard communication protocol for sending emails.
+  
 
 ### 项目结构：
 - `gui.py`：GUI 界面的主要代码。
