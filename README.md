@@ -35,7 +35,9 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 Authentication
 
 Original Version:
+```python
 smtp_object.login("YOUR EMAIL", "YOUR PASSWORD")
+```
 Here, "YOUR EMAIL" and "YOUR PASSWORD" are your Gmail email address and password. However, storing the password directly in the code is insecure.
 
 
